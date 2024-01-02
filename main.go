@@ -5,4 +5,6 @@ import "fmt"
 func main() {
 
 	fmt.Println("Kaam shuru karna hai guys")
+	fmt.Println("Kaam shuru karna hai guys")
+
 }

@@ -1,10 +1,12 @@
 package main
 
-import "fmt"
-
 func main() {
 
-	fmt.Println("Kaam shuru karna hai guys")
-	fmt.Println("Kaam shuru karna hai guys")
+	var a int = 10
+	var b int = 20
+	var c int
 
+	// Arithmetic Operators
+	c = a + b
+	println("a + b = ", c)
 }

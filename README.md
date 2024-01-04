@@ -5,7 +5,7 @@ shall submit a zip file containing all the source codes. Deadline is 06th
 
 **Scenario Specifications:**
 FAST University has requested batch 20 students currently enrolled in the CS-4049 course to
-develop a futuristic DAPP that revolutionizes the way students and staff interact with the cafeteria.
+develop a futuristic DAPP that revolutionizes the way students and staff interact with the cafeteria. 
 The DAPP aims to provide a seamless and transparent experience for ordering meals, processing
 transactions, handling payments via cryptocurrency, and rewarding loyal customers.
 The DAPP will have three different stakeholders, i.e., (i) university management, (ii) cafeteria staff, and (iii) cafeteria users. The DAPP must satisfy the following requirements.
